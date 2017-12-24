@@ -9,9 +9,9 @@
 
 <h3>:zap: Skills :zap: :</h3>
 
-###### - Languages: "Javascript", "Node.js", "HTML5", "CSS3"
-###### - Frameworks/Libraries: "Express", "Handelbars, "Bootstrap", "Angular"
-###### - Database: "Postgress", "MongoDB"
-###### - Testing Tools: "Tape", "Shot", "Istanbul/NYC"
+##### - Languages: "Javascript", "Node.js", "HTML5", "CSS3"
+##### - Frameworks/Libraries: "Express", "Handelbars, "Bootstrap", "Angular"
+##### - Database: "Postgress", "MongoDB"
+##### - Testing Tools: "Tape", "Shot", "Istanbul/NYC"
 
 
