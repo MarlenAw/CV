@@ -7,11 +7,21 @@
 
 <h4> I am a Full-Stack web developer who is very ambitious, well-organized, responsible and motivated to learn and grow in what I do. </h4>
 
-<h3>:zap: Skills :zap: </h3>
 
-##### - Languages: "Javascript", "PHP", "HTML5", "CSS3"
-##### - Frameworks/Libraries: "Node.js", "Express", "Angular", "Handelbars, "Bootstrap"
-##### - Database: "Postgress", "MongoDB"
-##### - Testing Tools: "Tape", "Shot", "Istanbul/NYC"
+<h3>:zap: Skills :zap: </h3>
+<ul>
+  <li><h5>Languages: "Javascript", "PHP", "HTML5", "CSS3"</h5></li>
+  <li><h5>Frameworks/Libraries: "Node.js", "Express", "Angular", "Handelbars, "Bootstrap"</h5></li>
+  <li><h5>Database: "Postgress", "MongoDB"</h5></li>
+  <li><h5>Testing Tools: "Tape", "Shot", "Istanbul/NYC"</h5></li>
+</ul>
+
+
+
+
+
+
+
+
 
 
