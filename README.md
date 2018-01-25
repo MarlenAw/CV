@@ -11,15 +11,15 @@
 <h3>:zap: Skills: </h3>
 <ul>
   <li><h5>Languages: "Javascript", "PHP", "HTML5", "CSS3"</h5></li>
-  <li><h5>Frameworks/Libraries: "Node.js", "Express", "Angular", "Handelbars, "Bootstrap"</h5></li>
+  <li><h5>Frameworks/Libraries: "Node.js", "Express", "React", "Handelbars, "Bootstrap"</h5></li>
   <li><h5>Database: "Postgress", "MongoDB"</h5></li>
   <li><h5>Testing Tools: "Tape", "Shot", "Istanbul/NYC"</h5></li>
 </ul>
 <h3 align="center">STRONG IN</h3>
-<h4 align="center">JAVASCRIPT(ES6), MEAN STACK, HTML5, CSS3, BOOTSTRAP, TAPE, GIT</h4>
+<h4 align="center">JAVASCRIPT(ES6), MERN STACK, HTML5, CSS3, BOOTSTRAP, TAPE, GIT</h4>
 
 <h3>:zap: Education:</h3>
-<h5><i>2017:</i> Founders & Coders - Full-Stack Javascript (16-week full-time coding bootcamp)</h5>
+<h5><i>2017 - (Current):</i> Founders & Coders - Full-Stack Javascript (16-week full-time coding bootcamp)</h5>
 <h5><i>2016 - 2017:</i> John Bryce - Full-Stack web development</h5>
 <h5><i>2011 - 2014:</i> Heinrich Heine University Düsseldorf (HHU) - Computer Science</h5>
 
