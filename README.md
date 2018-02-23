@@ -30,7 +30,7 @@
 <h3>:zap: Interests:</h3>
 <ul>
   <li><h5>Staying up to date with technology</h5></li>
-  <li><h5>Entrepreneurship<li></h5>
+  <li><h5>Entrepreneurship</h5></li>
   <li><h5>Extreme Sports (like: Diving, Snowboarding, Climbing, Snappling etc..)</h5></li>
   <li><h5>Traveling</h5></li>
   <li><h5>Blockchain</h5></li>
