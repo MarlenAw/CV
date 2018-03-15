@@ -12,7 +12,7 @@
 <ul>
   <li><h5>Languages: "Javascript", "PHP", "HTML5", "CSS3"</h5></li>
   <li><h5>Frameworks/Libraries: "Node.js", "Express", "React", "Handelbars, "Bootstrap"</h5></li>
-  <li><h5>Database: "Postgress", "MongoDB"</h5></li>
+  <li><h5>Database: "MongoDB", "Postgress"</h5></li>
   <li><h5>Testing Tools: "Tape", "Shot", "Istanbul/NYC"</h5></li>
 </ul>
 <h3 align="center">STRONG IN</h3>
